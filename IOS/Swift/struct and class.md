@@ -7,6 +7,7 @@
 
 ###### ④structs：数组，int, 字典
 ###### ⑤value types
+###### ⑥会初始化所有vars，即使他们已经预先初始化
 
 
 #### class:
