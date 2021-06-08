@@ -37,3 +37,5 @@
 
 #端口映射：使用命令docker run -d --name myjenkins -p 8080:8080 -p 50000:50000 jenkins启动Jenkins服务(宿主机端口:容器端口)，这段命令的意思是将宿主机以myjenkins命名在后台运行，并将宿主机的8080端口请求转发到容器的8080端口上；
 ```
+
+(docker实战)[http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html]
