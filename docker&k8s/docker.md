@@ -39,3 +39,6 @@
 ```
 
 (docker实战)[http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html]
+
+docker build 创建镜像
+docker run通过容器来运行镜像
