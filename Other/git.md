@@ -2,7 +2,7 @@
 '''
 1.git stash save "这里是注释"
 2.git pull
-3.git stash pop
+3.git stash pop（接下来commit和push）
 4.git stash list 
 5.git stash show
 '''
