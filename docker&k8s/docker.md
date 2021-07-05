@@ -5,7 +5,7 @@
 
 ###### 镜像是 Docker 运行容器的前提，仓库是存放镜像的场所，可见镜像更是 Docker 的核心
 
-###### 进入容器：docker exec -it 容器id
+###### 进入容器：docker container exec -it 容器id
 ###### 退出容器：exit
 ###### 停止/启动容器：docker stop/run id
 ###### 镜像删除：
