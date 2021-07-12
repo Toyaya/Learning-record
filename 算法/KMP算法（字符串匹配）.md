@@ -1,4 +1,5 @@
 出处：<https://leetcode-cn.com/problems/implement-strstr/solution/dai-ma-sui-xiang-lu-kmpsuan-fa-xiang-jie-mfbs/>
+
 KMP的经典思想就是:当出现字符串不匹配时，可以记录一部分之前已经匹配的文本内容，利用这些信息避免从头再去做匹配。
 
 要在文本串：aabaabaafa 中查找是否出现过一个模式串：aabaaf。
